@@ -32,7 +32,3 @@ footer:
   links:
     - text: About
       link: about.md
-
-integrations:
-  googleAnalytics:
-    id: G-HLTYMRVPG4
